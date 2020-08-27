@@ -15,11 +15,10 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the Tip Calculator:
 
 <img src= "http://g.recordit.co/73AeNBEcLJ.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
